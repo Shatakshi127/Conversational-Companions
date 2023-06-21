@@ -1,8 +1,5 @@
 # Chatbot for mental health
 
-This project was done for a research project under a professor at my university with a self-scraped dataset.
-The dataset is confidential; however, I thought to make the open-source to make a compilation of making different **chatbots from scracth in Python**, since I struggled with resources during my research. 
-
 ## Motivation behind this project
 
 In 2017, the National Mental Health Survey reported that one in seven people in India suffered from mental disorders, including depression and anxiety. The increasing awareness of mental health has made it a primary concern of development. Nearly 150 million people in India needed interventions, where the low and middle class faced more burden than the well-off people. This project is an attempt to make mental health more accessible. This conversational agent can be complemented with clinicians to make it more effective and fruitful.
